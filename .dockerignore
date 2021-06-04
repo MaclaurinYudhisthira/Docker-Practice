@@ -1,4 +1,0 @@
-# this is .dockerignore comment
-
-# this will exclude env-1 folder
-./env-1
